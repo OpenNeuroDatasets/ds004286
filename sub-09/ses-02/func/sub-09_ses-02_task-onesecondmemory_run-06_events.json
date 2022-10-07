@@ -1,0 +1,11 @@
+{
+  "video": {
+    "Description": "The ID number of the memory video that was shown. Each participant has their own video ordering (1,2,3...)"
+  },
+  "participant": {
+    "Description": "The participant who recorded that video (either the in-scanner participant or their yoked participant)."
+  },
+  "session": {
+    "Description": "The scan session for which the video was recorded (either the in-scanner participant or the session of their yoked participant)/"
+  }
+}

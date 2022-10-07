@@ -1,0 +1,25 @@
+{
+  "time_from_scan": {
+    "Description": "Number of days between that video's memory and the scan date"
+  },
+  "emotion": {
+    "Description": "Answer to: 'how would you describe your emotions for this event?'",
+    "Levels": "0: No response, 1: Very negative, 2: somewhat negative, 3: neutral, 4: somewhat positive, 5: very positive"
+  },
+  "memory_strength": {
+    "Description": "Answer to: 'how strong is your memory for this event?'",
+    "Levels": "0: No response, 1: Very weak, 5: Very strong"
+  },
+  "face_or_not": {
+    "Description": "Whether there was a face in the video or not.",
+    "Levels": "0: No face, 1: Face"
+  },
+  "person_familiarity": {
+    "Description": "Familiarity of the face in the video.",
+    "Levels": "0: No response, 1: New person, 2: familiar person, 3: Self"
+  },
+  "place_familiarity": {
+    "Description": "Familiarity of the place in the video.",
+    "Levels": "0: No response, 1: New place, 2: familiar place"
+  }
+}
