@@ -4,7 +4,7 @@ Bainbridge, W. A., & Baker, C. I. (under review). Multidimensional memory topogr
 
 Please cite the above paper if you use these data.
 
--------------------------------------------------------------------
+---
 
 Last updated: October 7, 2022
 
@@ -12,9 +12,9 @@ Last updated: October 7, 2022
 This dataset includes neuroimaging and behavioral data for all 23 participants (with some engaging in 1 session, some in 2 sessions). Participants who came back for a 2nd session were scanned at least 6 months later and shown an entirely new set of videos.
 
 
--------------------------------------------------------------------
+---
 Raw data contents
--------------------------------------------------------------------
+---
 
 The dataset includes:
 
@@ -29,9 +29,9 @@ The dataset includes:
 	3. beh/ --> data from a post-scan behavioral task ("videofeatures"), where participants labeled all ~300 of their videos for a range of features.
 	
 	
--------------------------------------------------------------------
+---
 Preprocessed data contents
--------------------------------------------------------------------
+---
 
 There is also a derivatives folder with data that is likely easier to work with. 
 
@@ -50,9 +50,9 @@ In terms of behavioral data, we also include:
 	3. A symmetrical matrix of pairwise geodesic distances (km) between each video for a participant. Note that there are many NaNs, for videos where we did not get location data.
 	
 	
--------------------------------------------------------------------
+---
 Data not included
--------------------------------------------------------------------
+---
 	
 Some data currently excluded from the database:
 
