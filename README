@@ -1,12 +1,12 @@
 OpenNeuro dataset for:
 
-Bainbridge, W. A., & Baker, C. I. (under review). Multidimensional memory topography in the medial parietal cortex identified from neuroimaging of thousands of daily memory videos. 
+Bainbridge, W. A., & Baker, C. I. (2022). Multidimensional memory topography in the medial parietal cortex identified from neuroimaging of thousands of daily memory videos. *Nature Communications, 13*, 6508.
 
 Please cite the above paper if you use these data.
 
 ---
 
-Last updated: October 7, 2022
+Last updated: November 4, 2022
 
 
 This dataset includes neuroimaging and behavioral data for all 23 participants (with some engaging in 1 session, some in 2 sessions). Participants who came back for a 2nd session were scanned at least 6 months later and shown an entirely new set of videos.
