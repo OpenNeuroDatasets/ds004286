@@ -1,3 +1,0 @@
-{
-  "description": "Data after slice time correction, motion correction, and a GLM to estimate the beta for each video, as described in the paper. The matrix is of the form x,y,z,video, in participant native space. Videos labeled 'self' come from the current participant, while those labeled 'other' come from their paired participant."
-}

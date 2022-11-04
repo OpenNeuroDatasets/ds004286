@@ -1,3 +1,0 @@
-{
-  "description": "The average magnitude of optical flow from the last to middle and middle to last frame of each memory video, using the Lucas-Kanade method."
-}
