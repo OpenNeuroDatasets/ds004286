@@ -1,0 +1,3 @@
+{
+  "description": "A symmetrical matrix of pairwise geodesic distance (km) between each video. Since only a subset of videos were labeled by participants (~300), NaN represents distances where participant didn't report a location for one of the videos."
+}
